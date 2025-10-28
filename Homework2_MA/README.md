@@ -15,20 +15,6 @@ Each algorithm runs for 20,000 trials. The code tracks rewards, computes regret,
 ---
 
 
-## Folder Structure
-
-
-A_B_Testing_Experiment/
-│
-├── bandit.py # Abstract base class (template)
-├── epsilon_greedy.py # Epsilon-Greedy implementation
-├── thompson_sampling.py # Thompson Sampling implementation
-├── visualizations.py # Plotting and visualization
-├── functions.py # Utility functions (CSV saving, etc.)
-├── experiment.ipynb # Main notebook to run everything
-└── results.csv # Automatically generated after running
-
-
 ## How to Run
 
 
